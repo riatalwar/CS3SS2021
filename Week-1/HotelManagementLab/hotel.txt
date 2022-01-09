@@ -1,0 +1,13 @@
+12
+executive 101 350 Chris
+standard 102 89 David
+suite 110 180 Maria
+standard 107 89 available
+deluxe 201 250 John
+executive 109 300 available
+suite 209 190 available
+executive 208 75 Steve
+deluxe 106 280 Ashley
+standard 202 80 available
+standard 103 75 Monica
+suite 205 120 Jason
