@@ -1,0 +1,65 @@
+[
+  {
+    "voiceSearchQuery" : "Shuffle scratch paper",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en-US,en;q=0.9",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-05-19T00:00:45.523Z"
+  },
+  {
+    "voiceSearchQuery" : "play",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en-US,en;q=0.9",
+    "entityType" : "ALBUM",
+    "time" : "2021-05-25T00:27:03.088Z"
+  },
+  {
+    "voiceSearchQuery" : "play drugs and the internet",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en-US,en;q=0.9",
+    "entityType" : "TRACK",
+    "time" : "2021-05-26T00:07:50.312Z"
+  },
+  {
+    "voiceSearchQuery" : "play",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en-US,en;q=0.9",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-06-01T00:41:57.911Z"
+  },
+  {
+    "voiceSearchQuery" : "Francisco tárrega",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "PLAYLIST_V2",
+    "time" : "2021-06-26T00:46:55.744Z"
+  },
+  {
+    "voiceSearchQuery" : "play happier by Ed Sheeran",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "TRACK",
+    "time" : "2021-07-08T00:17:22.414Z"
+  },
+  {
+    "voiceSearchQuery" : "play Bon Bon by Pitbull",
+    "catalogue" : "premium",
+    "country" : "US",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "TRACK",
+    "time" : "2021-07-15T00:55:53.212Z"
+  }
+]

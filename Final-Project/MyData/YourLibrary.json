@@ -1,0 +1,294 @@
+{
+  "tracks": [
+    {
+      "artist": "Conan Gray",
+      "album": "People Watching",
+      "track": "People Watching",
+      "uri": "spotify:track:4JeOesjcWWlprTAvucDSJX"
+    },
+    {
+      "artist": "Lauv",
+      "album": "I met you when I was 18. (the playlist)",
+      "track": "Never Not",
+      "uri": "spotify:track:4fFfyouye6vrX9o9z4PVMu"
+    },
+    {
+      "artist": "Conan Gray",
+      "album": "Kid Krow",
+      "track": "The Story",
+      "uri": "spotify:track:5GVPVxgdgTKJFxSxLVIw1A"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Sling",
+      "track": "Blouse",
+      "uri": "spotify:track:7brBeAX3RT0CMh3qbTBrIP"
+    },
+    {
+      "artist": "Maluma",
+      "album": "Sobrio",
+      "track": "Sobrio",
+      "uri": "spotify:track:4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "NDA",
+      "track": "NDA",
+      "uri": "spotify:track:6uqyE384HDSsuwpoF4mjrL"
+    },
+    {
+      "artist": "Lauv",
+      "album": "~how i'm feeling~",
+      "track": "Sad Forever",
+      "uri": "spotify:track:1DVWkJEjgVStgU2EbR9vpz"
+    },
+    {
+      "artist": "Lauv",
+      "album": "Without You",
+      "track": "Dishes",
+      "uri": "spotify:track:3cwXD9KKjanH5y3d4hNDGc"
+    },
+    {
+      "artist": "Alec Benjamin",
+      "album": "Narrated For You",
+      "track": "Let Me Down Slowly",
+      "uri": "spotify:track:2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Sling",
+      "track": "Amoeba",
+      "uri": "spotify:track:0HAqq2GcQKyi3s87GuN7jU"
+    },
+    {
+      "artist": "Conan Gray",
+      "album": "Kid Krow",
+      "track": "Heather",
+      "uri": "spotify:track:4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "artist": "Conan Gray",
+      "album": "Sunset Season",
+      "track": "Lookalike",
+      "uri": "spotify:track:4K3gM7kzX4POAfrs71HomN"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Machine Gun Kelly",
+      "album": "Tickets To My Downfall",
+      "uri": "spotify:album:13lMLnHs5qsmm687oRc3VC"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Evolve",
+      "uri": "spotify:album:33pt9HBdGlAbRGBHQgsZsU"
+    },
+    {
+      "artist": "Lauv",
+      "album": "~how i'm feeling~",
+      "uri": "spotify:album:6EgJXcGqaUvgZIF9bqPXfP"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "uri": "spotify:album:1kCHru7uhxBUdzkm4gzRQc"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh"
+    },
+    {
+      "artist": "Sam Smith",
+      "album": "Love Goes",
+      "uri": "spotify:album:5XCBX16KNYsAe7V5hQV9mC"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Every Little Thing",
+      "publisher": "Gimlet",
+      "uri": "spotify:show:2dY2l2v95zz9HTlYvDSAdA"
+    },
+    {
+      "name": "Faerie",
+      "publisher": "Parcast Network",
+      "uri": "spotify:show:2luefy24L2m5FOxSZ4eiFi"
+    },
+    {
+      "name": "Fictional",
+      "publisher": "Jason Weiser, Carissa Weiser | Bardic",
+      "uri": "spotify:show:5D3FdZ9Pq286O7owqg7tH5"
+    },
+    {
+      "name": "From the Wizarding World: Journeys to Hogwarts and Harry Potter At Home: Readings",
+      "publisher": "Wizarding World ",
+      "uri": "spotify:show:2JUljwaD9fNSeq8Vy3UAUp"
+    },
+    {
+      "name": "Live from Mount Olympus",
+      "publisher": "Onassis Foundation",
+      "uri": "spotify:show:2WXPuiOtZE92GucNvNhrpB"
+    },
+    {
+      "name": "Myths and Legends",
+      "publisher": "Jason Weiser, Carissa Weiser / Bardic",
+      "uri": "spotify:show:6xqETOvGnSQHH0xdLtgcXU"
+    },
+    {
+      "name": "Renegades: Born in the USA",
+      "publisher": "Higher Ground",
+      "uri": "spotify:show:42xagXCUDsFO6a0lcHoTlv"
+    },
+    {
+      "name": "Science Vs",
+      "publisher": "Gimlet",
+      "uri": "spotify:show:5lY4b5PGOvMuOYOjOVEcb9"
+    },
+    {
+      "name": "The Daily",
+      "publisher": "The New York Times",
+      "uri": "spotify:show:3IM0lmZxpFAY7CwMuv9H4g"
+    },
+    {
+      "name": "The Michelle Obama Podcast",
+      "publisher": "Higher Ground",
+      "uri": "spotify:show:71mvGXupfKcmO6jlmOJQTP"
+    },
+    {
+      "name": "The Two Princes",
+      "publisher": "Gimlet",
+      "uri": "spotify:show:70QlYnLX3izDdFhlKfOaeF"
+    },
+    {
+      "name": "Up First",
+      "publisher": "NPR",
+      "uri": "spotify:show:2mTUnDkuKUkhiueKcVWoP0"
+    }
+  ],
+  "episodes": [
+    {
+      "name": "HORIZONS | Entry One: Genborn",
+      "show": "DUST",
+      "uri": "spotify:episode:6BP3lof5uDSXPyyR0zLXdm"
+    },
+    {
+      "name": "State-Sponsored Abuse in Canada",
+      "show": "The Daily",
+      "uri": "spotify:episode:4zNJziIRxgzJMOhGOywxJr"
+    },
+    {
+      "name": "The Assassination of Haiti’s President",
+      "show": "The Daily",
+      "uri": "spotify:episode:4RNtXojODpSf7US5u64HW0"
+    },
+    {
+      "name": "The Early Years: Marshmallow Shooter Camp",
+      "show": "Story Pirates",
+      "uri": "spotify:episode:2P39UfI1CsgnocE48DmBon"
+    },
+    {
+      "name": "Cassandra Clare",
+      "show": "The B&N YA Podcast",
+      "uri": "spotify:episode:47Etmrz432lXAJC823aTks"
+    },
+    {
+      "name": "How Do You Ignore Haters & Learn to Love Yourself? with Jameela Jamil ",
+      "show": "Getting Curious with Jonathan Van Ness",
+      "uri": "spotify:episode:1kn8HXmy3BUVS5Lus5bZBO"
+    },
+    {
+      "name": "How can District Attorneys help fight police brutality? with DA Rachael Rollins",
+      "show": "Getting Curious with Jonathan Van Ness",
+      "uri": "spotify:episode:2nlTvLLMxDwVcBGM00Lhgp"
+    },
+    {
+      "name": "(Of the Air): Firstly! ",
+      "show": "The Orbiting Human Circus ",
+      "uri": "spotify:episode:2x9ewZ0XxyL2IYc96wBnf5"
+    },
+    {
+      "name": "Part 1, Chapter 1: Omelet",
+      "show": "Alice Isn't Dead",
+      "uri": "spotify:episode:0xsvW7x1y3n3vSxyLSX6pC"
+    },
+    {
+      "name": "122. Casey McQuiston",
+      "show": "QUEERY with Cameron Esposito",
+      "uri": "spotify:episode:66KzVIiTmMi7INgNyFOB7D"
+    }
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "name": "Billie Eilish",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "name": "Camila Cabello",
+      "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF"
+    },
+    {
+      "name": "Conan Gray",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+    },
+    {
+      "name": "Ed Sheeran",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "name": "Imagine Dragons",
+      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+    },
+    {
+      "name": "Justin Bieber",
+      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "name": "Khalid",
+      "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+    },
+    {
+      "name": "Lauv",
+      "uri": "spotify:artist:5JZ7CnR6gTvEMKX4g70Amv"
+    },
+    {
+      "name": "Lin-Manuel Miranda",
+      "uri": "spotify:artist:4aXXDj9aZnlshx7mzj3W1N"
+    },
+    {
+      "name": "Machine Gun Kelly",
+      "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
+    },
+    {
+      "name": "Original Broadway Cast of Hamilton",
+      "uri": "spotify:artist:3UUJfRbrA2nTbcg4i0MOwu"
+    },
+    {
+      "name": "Sam Smith",
+      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+      "name": "Shawn Mendes",
+      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    },
+    {
+      "name": "Taylor Swift",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "name": "YUNGBLUD",
+      "uri": "spotify:artist:6Ad91Jof8Niiw0lGLLi3NW"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
